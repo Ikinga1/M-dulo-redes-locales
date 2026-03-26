@@ -17,7 +17,7 @@ La red está compuesta por varios ordenadores conectados a un switch, que a su v
 Se ha comprobado la conectividad entre los equipos mediante el uso del comando ping, verificando que la red funciona correctamente.
 ## Diagrama de red
 
-![Red](red.png)
+![Red](red.png.png)
 
 ## Autor
 Victoria Teresa Arroyo Peña
